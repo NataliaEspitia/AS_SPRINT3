@@ -37,6 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'cobros'
+
 ]
 
 MIDDLEWARE = [
@@ -76,7 +78,11 @@ WSGI_APPLICATION = 'ofipensiones.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'NAME': "ofipensionesprincipal",
+        'USER': "grupo2",
+        "PASSWORD": "grupo2",
+        "HOST": "localhost",
+        "PORT": "5432",
     }
 }
 
