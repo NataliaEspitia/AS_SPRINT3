@@ -4,5 +4,6 @@ from . import views
 
 urlpatterns = [
     path('', views.get_cobros, name='get_cobros'),
-    path('<int:pk>', views.get_cobro, name='get_cobro')
+    path('<int:pk>', views.get_cobro, name='get_cobro'),
+    path('health-check/', views.healthCheck)
 ]
