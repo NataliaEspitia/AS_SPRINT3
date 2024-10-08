@@ -1,0 +1,6002 @@
+[
+    {
+        "model": "cobros.cobro",
+        "pk": 1,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 4,
+            "year": 2023,
+            "fechaLimite": "2023-05-05",
+            "tipo": "Extraordinario",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 2,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 6,
+            "year": 2022,
+            "fechaLimite": "2022-07-11",
+            "tipo": "Mora",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 3,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 6,
+            "year": 2022,
+            "fechaLimite": "2022-07-02",
+            "tipo": "Normal",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 4,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 11,
+            "year": 2022,
+            "fechaLimite": "2022-11-25",
+            "tipo": "Normal",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 5,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 5,
+            "year": 2024,
+            "fechaLimite": "2024-05-17",
+            "tipo": "Mora",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 6,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 11,
+            "year": 2022,
+            "fechaLimite": "2022-12-03",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 7,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 8,
+            "year": 2024,
+            "fechaLimite": "2024-08-30",
+            "tipo": "Normal",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 8,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 8,
+            "year": 2022,
+            "fechaLimite": "2022-09-06",
+            "tipo": "Extraordinario",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 9,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 11,
+            "year": 2023,
+            "fechaLimite": "2023-12-20",
+            "tipo": "Extraordinario",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 10,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 8,
+            "year": 2022,
+            "fechaLimite": "2022-08-27",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 11,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 1,
+            "year": 2023,
+            "fechaLimite": "2023-02-01",
+            "tipo": "Mora",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 12,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 1,
+            "year": 2023,
+            "fechaLimite": "2023-02-15",
+            "tipo": "Extraordinario",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 13,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 8,
+            "year": 2024,
+            "fechaLimite": "2024-08-19",
+            "tipo": "Mora",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 14,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 8,
+            "year": 2024,
+            "fechaLimite": "2024-08-25",
+            "tipo": "Normal",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 15,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 3,
+            "year": 2023,
+            "fechaLimite": "2023-04-02",
+            "tipo": "Extraordinario",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 16,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 11,
+            "year": 2024,
+            "fechaLimite": "2024-11-30",
+            "tipo": "Descuento",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 17,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 12,
+            "year": 2023,
+            "fechaLimite": "2024-01-22",
+            "tipo": "Mora",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 18,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 11,
+            "year": 2024,
+            "fechaLimite": "2024-12-04",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 19,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 9,
+            "year": 2022,
+            "fechaLimite": "2022-10-03",
+            "tipo": "Normal",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 20,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 8,
+            "year": 2024,
+            "fechaLimite": "2024-09-01",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 21,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 12,
+            "year": 2024,
+            "fechaLimite": "2024-12-04",
+            "tipo": "Descuento",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 22,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 8,
+            "year": 2023,
+            "fechaLimite": "2023-09-02",
+            "tipo": "Descuento",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 23,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 8,
+            "year": 2022,
+            "fechaLimite": "2022-08-13",
+            "tipo": "Extraordinario",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 24,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 7,
+            "year": 2023,
+            "fechaLimite": "2023-07-19",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 25,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 6,
+            "year": 2024,
+            "fechaLimite": "2024-07-05",
+            "tipo": "Extraordinario",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 26,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 1,
+            "year": 2022,
+            "fechaLimite": "2022-01-16",
+            "tipo": "Descuento",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 27,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 9,
+            "year": 2023,
+            "fechaLimite": "2023-10-13",
+            "tipo": "Descuento",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 28,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 6,
+            "year": 2024,
+            "fechaLimite": "2024-06-21",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 29,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 3,
+            "year": 2022,
+            "fechaLimite": "2022-03-09",
+            "tipo": "Descuento",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 30,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 12,
+            "year": 2022,
+            "fechaLimite": "2023-01-13",
+            "tipo": "Descuento",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 31,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 7,
+            "year": 2024,
+            "fechaLimite": "2024-07-21",
+            "tipo": "Normal",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 32,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 6,
+            "year": 2023,
+            "fechaLimite": "2023-06-27",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 33,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 6,
+            "year": 2024,
+            "fechaLimite": "2024-07-19",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 34,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 3,
+            "year": 2022,
+            "fechaLimite": "2022-03-19",
+            "tipo": "Mora",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 35,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 5,
+            "year": 2023,
+            "fechaLimite": "2023-05-27",
+            "tipo": "Descuento",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 36,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 8,
+            "year": 2024,
+            "fechaLimite": "2024-08-21",
+            "tipo": "Extraordinario",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 37,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 2,
+            "year": 2023,
+            "fechaLimite": "2023-02-22",
+            "tipo": "Mora",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 38,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 5,
+            "year": 2022,
+            "fechaLimite": "2022-06-19",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 39,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 3,
+            "year": 2023,
+            "fechaLimite": "2023-03-14",
+            "tipo": "Descuento",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 40,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 3,
+            "year": 2023,
+            "fechaLimite": "2023-03-14",
+            "tipo": "Mora",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 41,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 5,
+            "year": 2022,
+            "fechaLimite": "2022-05-23",
+            "tipo": "Extraordinario",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 42,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 7,
+            "year": 2023,
+            "fechaLimite": "2023-08-20",
+            "tipo": "Extraordinario",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 43,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 2,
+            "year": 2024,
+            "fechaLimite": "2024-03-10",
+            "tipo": "Descuento",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 44,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 11,
+            "year": 2024,
+            "fechaLimite": "2024-11-11",
+            "tipo": "Descuento",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 45,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 11,
+            "year": 2023,
+            "fechaLimite": "2023-11-29",
+            "tipo": "Mora",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 46,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 3,
+            "year": 2022,
+            "fechaLimite": "2022-03-07",
+            "tipo": "Extraordinario",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 47,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 4,
+            "year": 2024,
+            "fechaLimite": "2024-04-28",
+            "tipo": "Mora",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 48,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 2,
+            "year": 2022,
+            "fechaLimite": "2022-03-03",
+            "tipo": "Descuento",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 49,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 6,
+            "year": 2023,
+            "fechaLimite": "2023-06-16",
+            "tipo": "Extraordinario",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 50,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 6,
+            "year": 2023,
+            "fechaLimite": "2023-06-17",
+            "tipo": "Descuento",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 51,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 11,
+            "year": 2023,
+            "fechaLimite": "2023-12-16",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 52,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 3,
+            "year": 2023,
+            "fechaLimite": "2023-04-16",
+            "tipo": "Mora",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 53,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 4,
+            "year": 2024,
+            "fechaLimite": "2024-04-28",
+            "tipo": "Descuento",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 54,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 10,
+            "year": 2023,
+            "fechaLimite": "2023-10-31",
+            "tipo": "Extraordinario",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 55,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 9,
+            "year": 2023,
+            "fechaLimite": "2023-09-14",
+            "tipo": "Normal",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 56,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 5,
+            "year": 2022,
+            "fechaLimite": "2022-05-19",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 57,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 12,
+            "year": 2022,
+            "fechaLimite": "2022-12-29",
+            "tipo": "Normal",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 58,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 10,
+            "year": 2024,
+            "fechaLimite": "2024-11-17",
+            "tipo": "Descuento",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 59,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 6,
+            "year": 2023,
+            "fechaLimite": "2023-06-27",
+            "tipo": "Descuento",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 60,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 6,
+            "year": 2024,
+            "fechaLimite": "2024-06-19",
+            "tipo": "Descuento",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 61,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 3,
+            "year": 2022,
+            "fechaLimite": "2022-03-13",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 62,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 5,
+            "year": 2022,
+            "fechaLimite": "2022-05-31",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 63,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 8,
+            "year": 2023,
+            "fechaLimite": "2023-08-15",
+            "tipo": "Descuento",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 64,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 3,
+            "year": 2024,
+            "fechaLimite": "2024-03-07",
+            "tipo": "Extraordinario",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 65,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 1,
+            "year": 2022,
+            "fechaLimite": "2022-02-13",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 66,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 7,
+            "year": 2024,
+            "fechaLimite": "2024-07-29",
+            "tipo": "Descuento",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 67,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 8,
+            "year": 2023,
+            "fechaLimite": "2023-08-08",
+            "tipo": "Descuento",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 68,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 10,
+            "year": 2024,
+            "fechaLimite": "2024-11-10",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 69,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 9,
+            "year": 2024,
+            "fechaLimite": "2024-10-25",
+            "tipo": "Mora",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 70,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 5,
+            "year": 2022,
+            "fechaLimite": "2022-06-11",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 71,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 11,
+            "year": 2023,
+            "fechaLimite": "2023-11-28",
+            "tipo": "Descuento",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 72,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 6,
+            "year": 2024,
+            "fechaLimite": "2024-06-19",
+            "tipo": "Descuento",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 73,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 9,
+            "year": 2022,
+            "fechaLimite": "2022-09-28",
+            "tipo": "Normal",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 74,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 4,
+            "year": 2024,
+            "fechaLimite": "2024-05-04",
+            "tipo": "Descuento",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 75,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 4,
+            "year": 2023,
+            "fechaLimite": "2023-05-04",
+            "tipo": "Extraordinario",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 76,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 11,
+            "year": 2024,
+            "fechaLimite": "2024-12-12",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 77,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 5,
+            "year": 2022,
+            "fechaLimite": "2022-06-18",
+            "tipo": "Normal",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 78,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 2,
+            "year": 2022,
+            "fechaLimite": "2022-03-22",
+            "tipo": "Normal",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 79,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 4,
+            "year": 2022,
+            "fechaLimite": "2022-04-25",
+            "tipo": "Extraordinario",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 80,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 6,
+            "year": 2024,
+            "fechaLimite": "2024-06-15",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 81,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 6,
+            "year": 2022,
+            "fechaLimite": "2022-07-11",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 82,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 2,
+            "year": 2024,
+            "fechaLimite": "2024-02-25",
+            "tipo": "Normal",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 83,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 1,
+            "year": 2023,
+            "fechaLimite": "2023-02-02",
+            "tipo": "Normal",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 84,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 7,
+            "year": 2024,
+            "fechaLimite": "2024-08-16",
+            "tipo": "Descuento",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 85,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 11,
+            "year": 2022,
+            "fechaLimite": "2022-12-24",
+            "tipo": "Mora",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 86,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 7,
+            "year": 2024,
+            "fechaLimite": "2024-08-08",
+            "tipo": "Descuento",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 87,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 5,
+            "year": 2024,
+            "fechaLimite": "2024-05-17",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 88,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 11,
+            "year": 2022,
+            "fechaLimite": "2022-12-05",
+            "tipo": "Normal",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 89,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 1,
+            "year": 2022,
+            "fechaLimite": "2022-02-06",
+            "tipo": "Extraordinario",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 90,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 9,
+            "year": 2024,
+            "fechaLimite": "2024-09-26",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 91,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 4,
+            "year": 2023,
+            "fechaLimite": "2023-04-19",
+            "tipo": "Extraordinario",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 92,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 9,
+            "year": 2022,
+            "fechaLimite": "2022-09-17",
+            "tipo": "Mora",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 93,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 10,
+            "year": 2022,
+            "fechaLimite": "2022-10-16",
+            "tipo": "Normal",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 94,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 12,
+            "year": 2022,
+            "fechaLimite": "2022-12-27",
+            "tipo": "Normal",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 95,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 6,
+            "year": 2022,
+            "fechaLimite": "2022-07-01",
+            "tipo": "Extraordinario",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 96,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 10,
+            "year": 2022,
+            "fechaLimite": "2022-11-06",
+            "tipo": "Mora",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 97,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 6,
+            "year": 2023,
+            "fechaLimite": "2023-06-30",
+            "tipo": "Extraordinario",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 98,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 5,
+            "year": 2022,
+            "fechaLimite": "2022-06-05",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 99,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 1,
+            "year": 2022,
+            "fechaLimite": "2022-01-27",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 100,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 4,
+            "year": 2022,
+            "fechaLimite": "2022-04-26",
+            "tipo": "Descuento",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 101,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 6,
+            "year": 2024,
+            "fechaLimite": "2024-06-30",
+            "tipo": "Extraordinario",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 102,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 12,
+            "year": 2023,
+            "fechaLimite": "2024-01-06",
+            "tipo": "Descuento",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 103,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 4,
+            "year": 2024,
+            "fechaLimite": "2024-05-02",
+            "tipo": "Extraordinario",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 104,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 6,
+            "year": 2022,
+            "fechaLimite": "2022-06-27",
+            "tipo": "Extraordinario",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 105,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 2,
+            "year": 2023,
+            "fechaLimite": "2023-03-01",
+            "tipo": "Descuento",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 106,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 4,
+            "year": 2023,
+            "fechaLimite": "2023-04-26",
+            "tipo": "Descuento",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 107,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 11,
+            "year": 2022,
+            "fechaLimite": "2022-12-18",
+            "tipo": "Descuento",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 108,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 3,
+            "year": 2022,
+            "fechaLimite": "2022-04-07",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 109,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 4,
+            "year": 2022,
+            "fechaLimite": "2022-04-22",
+            "tipo": "Mora",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 110,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 4,
+            "year": 2022,
+            "fechaLimite": "2022-05-17",
+            "tipo": "Mora",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 111,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 7,
+            "year": 2024,
+            "fechaLimite": "2024-08-03",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 112,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 1,
+            "year": 2023,
+            "fechaLimite": "2023-01-31",
+            "tipo": "Descuento",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 113,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 11,
+            "year": 2024,
+            "fechaLimite": "2024-11-19",
+            "tipo": "Extraordinario",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 114,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 11,
+            "year": 2023,
+            "fechaLimite": "2023-11-09",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 115,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 6,
+            "year": 2024,
+            "fechaLimite": "2024-06-24",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 116,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 12,
+            "year": 2024,
+            "fechaLimite": "2025-01-17",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 117,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 8,
+            "year": 2023,
+            "fechaLimite": "2023-08-14",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 118,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 9,
+            "year": 2023,
+            "fechaLimite": "2023-09-12",
+            "tipo": "Mora",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 119,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 5,
+            "year": 2024,
+            "fechaLimite": "2024-05-19",
+            "tipo": "Mora",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 120,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 3,
+            "year": 2023,
+            "fechaLimite": "2023-03-16",
+            "tipo": "Extraordinario",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 121,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 6,
+            "year": 2023,
+            "fechaLimite": "2023-07-09",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 122,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 9,
+            "year": 2023,
+            "fechaLimite": "2023-09-28",
+            "tipo": "Normal",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 123,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 11,
+            "year": 2022,
+            "fechaLimite": "2022-11-20",
+            "tipo": "Normal",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 124,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 3,
+            "year": 2024,
+            "fechaLimite": "2024-04-04",
+            "tipo": "Normal",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 125,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 7,
+            "year": 2022,
+            "fechaLimite": "2022-08-15",
+            "tipo": "Descuento",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 126,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 1,
+            "year": 2023,
+            "fechaLimite": "2023-02-09",
+            "tipo": "Mora",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 127,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 9,
+            "year": 2022,
+            "fechaLimite": "2022-09-29",
+            "tipo": "Descuento",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 128,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 11,
+            "year": 2024,
+            "fechaLimite": "2024-11-19",
+            "tipo": "Descuento",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 129,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 7,
+            "year": 2023,
+            "fechaLimite": "2023-08-03",
+            "tipo": "Mora",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 130,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 11,
+            "year": 2023,
+            "fechaLimite": "2023-12-17",
+            "tipo": "Mora",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 131,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 10,
+            "year": 2023,
+            "fechaLimite": "2023-10-31",
+            "tipo": "Mora",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 132,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 9,
+            "year": 2022,
+            "fechaLimite": "2022-09-20",
+            "tipo": "Extraordinario",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 133,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 9,
+            "year": 2023,
+            "fechaLimite": "2023-09-24",
+            "tipo": "Normal",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 134,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 12,
+            "year": 2024,
+            "fechaLimite": "2025-01-14",
+            "tipo": "Extraordinario",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 135,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 9,
+            "year": 2022,
+            "fechaLimite": "2022-10-18",
+            "tipo": "Normal",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 136,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 12,
+            "year": 2022,
+            "fechaLimite": "2023-01-01",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 137,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 4,
+            "year": 2024,
+            "fechaLimite": "2024-04-27",
+            "tipo": "Extraordinario",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 138,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 9,
+            "year": 2024,
+            "fechaLimite": "2024-09-12",
+            "tipo": "Mora",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 139,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 1,
+            "year": 2022,
+            "fechaLimite": "2022-01-28",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 140,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 5,
+            "year": 2022,
+            "fechaLimite": "2022-05-28",
+            "tipo": "Descuento",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 141,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 5,
+            "year": 2024,
+            "fechaLimite": "2024-06-10",
+            "tipo": "Descuento",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 142,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 1,
+            "year": 2022,
+            "fechaLimite": "2022-01-13",
+            "tipo": "Descuento",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 143,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 1,
+            "year": 2022,
+            "fechaLimite": "2022-01-15",
+            "tipo": "Descuento",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 144,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 12,
+            "year": 2022,
+            "fechaLimite": "2023-01-10",
+            "tipo": "Descuento",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 145,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 7,
+            "year": 2024,
+            "fechaLimite": "2024-07-29",
+            "tipo": "Extraordinario",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 146,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 8,
+            "year": 2022,
+            "fechaLimite": "2022-09-01",
+            "tipo": "Mora",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 147,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 4,
+            "year": 2022,
+            "fechaLimite": "2022-04-14",
+            "tipo": "Mora",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 148,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 8,
+            "year": 2024,
+            "fechaLimite": "2024-09-19",
+            "tipo": "Mora",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 149,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 1,
+            "year": 2024,
+            "fechaLimite": "2024-02-23",
+            "tipo": "Extraordinario",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 150,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 11,
+            "year": 2023,
+            "fechaLimite": "2023-11-16",
+            "tipo": "Normal",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 151,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 3,
+            "year": 2022,
+            "fechaLimite": "2022-04-09",
+            "tipo": "Descuento",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 152,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 12,
+            "year": 2022,
+            "fechaLimite": "2023-01-11",
+            "tipo": "Normal",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 153,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 7,
+            "year": 2022,
+            "fechaLimite": "2022-08-03",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 154,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 5,
+            "year": 2023,
+            "fechaLimite": "2023-06-13",
+            "tipo": "Descuento",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 155,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 8,
+            "year": 2024,
+            "fechaLimite": "2024-08-24",
+            "tipo": "Extraordinario",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 156,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 3,
+            "year": 2024,
+            "fechaLimite": "2024-04-02",
+            "tipo": "Descuento",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 157,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 11,
+            "year": 2023,
+            "fechaLimite": "2023-12-13",
+            "tipo": "Normal",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 158,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 6,
+            "year": 2022,
+            "fechaLimite": "2022-06-29",
+            "tipo": "Extraordinario",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 159,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 6,
+            "year": 2022,
+            "fechaLimite": "2022-06-22",
+            "tipo": "Normal",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 160,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 1,
+            "year": 2022,
+            "fechaLimite": "2022-02-14",
+            "tipo": "Extraordinario",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 161,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 1,
+            "year": 2022,
+            "fechaLimite": "2022-02-03",
+            "tipo": "Normal",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 162,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 11,
+            "year": 2023,
+            "fechaLimite": "2023-11-25",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 163,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 7,
+            "year": 2024,
+            "fechaLimite": "2024-08-19",
+            "tipo": "Normal",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 164,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 6,
+            "year": 2022,
+            "fechaLimite": "2022-06-30",
+            "tipo": "Mora",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 165,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 12,
+            "year": 2023,
+            "fechaLimite": "2023-12-22",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 166,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 10,
+            "year": 2023,
+            "fechaLimite": "2023-11-07",
+            "tipo": "Extraordinario",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 167,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 8,
+            "year": 2023,
+            "fechaLimite": "2023-08-22",
+            "tipo": "Normal",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 168,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 11,
+            "year": 2024,
+            "fechaLimite": "2024-12-01",
+            "tipo": "Normal",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 169,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 5,
+            "year": 2022,
+            "fechaLimite": "2022-05-24",
+            "tipo": "Mora",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 170,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 1,
+            "year": 2024,
+            "fechaLimite": "2024-01-12",
+            "tipo": "Extraordinario",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 171,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 7,
+            "year": 2023,
+            "fechaLimite": "2023-08-10",
+            "tipo": "Normal",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 172,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 4,
+            "year": 2023,
+            "fechaLimite": "2023-05-04",
+            "tipo": "Extraordinario",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 173,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 9,
+            "year": 2023,
+            "fechaLimite": "2023-10-19",
+            "tipo": "Extraordinario",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 174,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 5,
+            "year": 2022,
+            "fechaLimite": "2022-06-05",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 175,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 7,
+            "year": 2022,
+            "fechaLimite": "2022-08-14",
+            "tipo": "Descuento",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 176,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 7,
+            "year": 2023,
+            "fechaLimite": "2023-08-11",
+            "tipo": "Extraordinario",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 177,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 6,
+            "year": 2022,
+            "fechaLimite": "2022-06-07",
+            "tipo": "Descuento",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 178,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 3,
+            "year": 2023,
+            "fechaLimite": "2023-03-26",
+            "tipo": "Normal",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 179,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 2,
+            "year": 2023,
+            "fechaLimite": "2023-02-22",
+            "tipo": "Normal",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 180,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 6,
+            "year": 2022,
+            "fechaLimite": "2022-07-23",
+            "tipo": "Extraordinario",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 181,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 5,
+            "year": 2024,
+            "fechaLimite": "2024-05-28",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 182,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 3,
+            "year": 2024,
+            "fechaLimite": "2024-04-24",
+            "tipo": "Mora",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 183,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 5,
+            "year": 2023,
+            "fechaLimite": "2023-05-25",
+            "tipo": "Mora",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 184,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 5,
+            "year": 2024,
+            "fechaLimite": "2024-06-06",
+            "tipo": "Mora",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 185,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 4,
+            "year": 2023,
+            "fechaLimite": "2023-04-19",
+            "tipo": "Normal",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 186,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 4,
+            "year": 2022,
+            "fechaLimite": "2022-05-11",
+            "tipo": "Extraordinario",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 187,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 5,
+            "year": 2024,
+            "fechaLimite": "2024-05-17",
+            "tipo": "Extraordinario",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 188,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 8,
+            "year": 2024,
+            "fechaLimite": "2024-08-28",
+            "tipo": "Descuento",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 189,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 6,
+            "year": 2023,
+            "fechaLimite": "2023-06-14",
+            "tipo": "Descuento",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 190,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 12,
+            "year": 2024,
+            "fechaLimite": "2025-01-18",
+            "tipo": "Descuento",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 191,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 8,
+            "year": 2023,
+            "fechaLimite": "2023-09-05",
+            "tipo": "Mora",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 192,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 5,
+            "year": 2022,
+            "fechaLimite": "2022-05-26",
+            "tipo": "Descuento",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 193,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 4,
+            "year": 2024,
+            "fechaLimite": "2024-04-28",
+            "tipo": "Normal",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 194,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 5,
+            "year": 2022,
+            "fechaLimite": "2022-06-10",
+            "tipo": "Extraordinario",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 195,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 2,
+            "year": 2023,
+            "fechaLimite": "2023-03-09",
+            "tipo": "Extraordinario",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 196,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 2,
+            "year": 2024,
+            "fechaLimite": "2024-03-03",
+            "tipo": "Descuento",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 197,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 3,
+            "year": 2022,
+            "fechaLimite": "2022-04-02",
+            "tipo": "Descuento",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 198,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 7,
+            "year": 2023,
+            "fechaLimite": "2023-07-25",
+            "tipo": "Descuento",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 199,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 3,
+            "year": 2022,
+            "fechaLimite": "2022-03-12",
+            "tipo": "Mora",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 200,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 5,
+            "year": 2022,
+            "fechaLimite": "2022-06-04",
+            "tipo": "Mora",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 201,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 6,
+            "year": 2022,
+            "fechaLimite": "2022-07-14",
+            "tipo": "Extraordinario",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 202,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 9,
+            "year": 2024,
+            "fechaLimite": "2024-09-25",
+            "tipo": "Extraordinario",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 203,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 6,
+            "year": 2024,
+            "fechaLimite": "2024-06-30",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 204,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 6,
+            "year": 2023,
+            "fechaLimite": "2023-06-30",
+            "tipo": "Extraordinario",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 205,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 10,
+            "year": 2024,
+            "fechaLimite": "2024-11-01",
+            "tipo": "Mora",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 206,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 11,
+            "year": 2022,
+            "fechaLimite": "2022-12-15",
+            "tipo": "Mora",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 207,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 10,
+            "year": 2023,
+            "fechaLimite": "2023-10-17",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 208,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 5,
+            "year": 2022,
+            "fechaLimite": "2022-05-27",
+            "tipo": "Descuento",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 209,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 4,
+            "year": 2024,
+            "fechaLimite": "2024-04-24",
+            "tipo": "Mora",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 210,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 10,
+            "year": 2024,
+            "fechaLimite": "2024-10-28",
+            "tipo": "Extraordinario",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 211,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 4,
+            "year": 2024,
+            "fechaLimite": "2024-04-27",
+            "tipo": "Mora",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 212,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 3,
+            "year": 2024,
+            "fechaLimite": "2024-03-11",
+            "tipo": "Mora",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 213,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 3,
+            "year": 2022,
+            "fechaLimite": "2022-03-31",
+            "tipo": "Mora",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 214,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 2,
+            "year": 2023,
+            "fechaLimite": "2023-02-24",
+            "tipo": "Mora",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 215,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 2,
+            "year": 2023,
+            "fechaLimite": "2023-02-17",
+            "tipo": "Extraordinario",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 216,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 8,
+            "year": 2022,
+            "fechaLimite": "2022-08-27",
+            "tipo": "Extraordinario",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 217,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 5,
+            "year": 2024,
+            "fechaLimite": "2024-05-26",
+            "tipo": "Descuento",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 218,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 7,
+            "year": 2023,
+            "fechaLimite": "2023-07-28",
+            "tipo": "Descuento",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 219,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 4,
+            "year": 2022,
+            "fechaLimite": "2022-05-12",
+            "tipo": "Normal",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 220,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 5,
+            "year": 2022,
+            "fechaLimite": "2022-05-29",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 221,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 4,
+            "year": 2022,
+            "fechaLimite": "2022-04-28",
+            "tipo": "Descuento",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 222,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 4,
+            "year": 2024,
+            "fechaLimite": "2024-04-11",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 223,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 3,
+            "year": 2022,
+            "fechaLimite": "2022-03-09",
+            "tipo": "Extraordinario",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 224,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 8,
+            "year": 2023,
+            "fechaLimite": "2023-08-19",
+            "tipo": "Extraordinario",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 225,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 11,
+            "year": 2022,
+            "fechaLimite": "2022-12-01",
+            "tipo": "Extraordinario",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 226,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 8,
+            "year": 2024,
+            "fechaLimite": "2024-09-02",
+            "tipo": "Descuento",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 227,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 7,
+            "year": 2022,
+            "fechaLimite": "2022-08-16",
+            "tipo": "Descuento",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 228,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 10,
+            "year": 2022,
+            "fechaLimite": "2022-11-03",
+            "tipo": "Extraordinario",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 229,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 2,
+            "year": 2023,
+            "fechaLimite": "2023-03-02",
+            "tipo": "Mora",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 230,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 7,
+            "year": 2023,
+            "fechaLimite": "2023-08-01",
+            "tipo": "Mora",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 231,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 10,
+            "year": 2024,
+            "fechaLimite": "2024-11-08",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 232,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 3,
+            "year": 2022,
+            "fechaLimite": "2022-03-22",
+            "tipo": "Descuento",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 233,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 9,
+            "year": 2024,
+            "fechaLimite": "2024-10-07",
+            "tipo": "Extraordinario",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 234,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 12,
+            "year": 2024,
+            "fechaLimite": "2025-01-19",
+            "tipo": "Descuento",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 235,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 8,
+            "year": 2024,
+            "fechaLimite": "2024-08-29",
+            "tipo": "Normal",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 236,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 7,
+            "year": 2024,
+            "fechaLimite": "2024-07-24",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 237,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 7,
+            "year": 2024,
+            "fechaLimite": "2024-08-15",
+            "tipo": "Mora",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 238,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 1,
+            "year": 2024,
+            "fechaLimite": "2024-02-09",
+            "tipo": "Normal",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 239,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 10,
+            "year": 2022,
+            "fechaLimite": "2022-10-14",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 240,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 7,
+            "year": 2024,
+            "fechaLimite": "2024-07-17",
+            "tipo": "Descuento",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 241,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 3,
+            "year": 2023,
+            "fechaLimite": "2023-03-29",
+            "tipo": "Normal",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 242,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 2,
+            "year": 2023,
+            "fechaLimite": "2023-03-07",
+            "tipo": "Descuento",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 243,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 8,
+            "year": 2023,
+            "fechaLimite": "2023-08-24",
+            "tipo": "Normal",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 244,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 9,
+            "year": 2023,
+            "fechaLimite": "2023-10-08",
+            "tipo": "Normal",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 245,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 8,
+            "year": 2023,
+            "fechaLimite": "2023-09-01",
+            "tipo": "Extraordinario",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 246,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 8,
+            "year": 2023,
+            "fechaLimite": "2023-09-09",
+            "tipo": "Extraordinario",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 247,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 6,
+            "year": 2024,
+            "fechaLimite": "2024-06-24",
+            "tipo": "Extraordinario",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 248,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 1,
+            "year": 2023,
+            "fechaLimite": "2023-02-06",
+            "tipo": "Descuento",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 249,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 8,
+            "year": 2022,
+            "fechaLimite": "2022-08-24",
+            "tipo": "Normal",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 250,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 11,
+            "year": 2022,
+            "fechaLimite": "2022-11-14",
+            "tipo": "Descuento",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 251,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 6,
+            "year": 2022,
+            "fechaLimite": "2022-07-23",
+            "tipo": "Descuento",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 252,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 11,
+            "year": 2023,
+            "fechaLimite": "2023-12-04",
+            "tipo": "Mora",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 253,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 9,
+            "year": 2024,
+            "fechaLimite": "2024-09-13",
+            "tipo": "Mora",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 254,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 1,
+            "year": 2022,
+            "fechaLimite": "2022-01-20",
+            "tipo": "Descuento",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 255,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 6,
+            "year": 2024,
+            "fechaLimite": "2024-06-22",
+            "tipo": "Mora",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 256,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 10,
+            "year": 2023,
+            "fechaLimite": "2023-10-30",
+            "tipo": "Extraordinario",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 257,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 2,
+            "year": 2022,
+            "fechaLimite": "2022-03-06",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 258,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 3,
+            "year": 2023,
+            "fechaLimite": "2023-04-19",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 259,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 12,
+            "year": 2022,
+            "fechaLimite": "2022-12-16",
+            "tipo": "Descuento",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 260,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 5,
+            "year": 2023,
+            "fechaLimite": "2023-05-19",
+            "tipo": "Extraordinario",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 261,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 7,
+            "year": 2024,
+            "fechaLimite": "2024-07-24",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 262,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 2,
+            "year": 2022,
+            "fechaLimite": "2022-02-23",
+            "tipo": "Normal",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 263,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 11,
+            "year": 2023,
+            "fechaLimite": "2023-11-08",
+            "tipo": "Normal",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 264,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 6,
+            "year": 2023,
+            "fechaLimite": "2023-07-02",
+            "tipo": "Normal",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 265,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 2,
+            "year": 2023,
+            "fechaLimite": "2023-03-23",
+            "tipo": "Normal",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 266,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 10,
+            "year": 2024,
+            "fechaLimite": "2024-11-09",
+            "tipo": "Descuento",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 267,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 11,
+            "year": 2022,
+            "fechaLimite": "2022-11-06",
+            "tipo": "Extraordinario",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 268,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 2,
+            "year": 2023,
+            "fechaLimite": "2023-03-16",
+            "tipo": "Descuento",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 269,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 5,
+            "year": 2024,
+            "fechaLimite": "2024-06-14",
+            "tipo": "Normal",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 270,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 6,
+            "year": 2024,
+            "fechaLimite": "2024-07-14",
+            "tipo": "Mora",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 271,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 1,
+            "year": 2024,
+            "fechaLimite": "2024-02-01",
+            "tipo": "Normal",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 272,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 3,
+            "year": 2022,
+            "fechaLimite": "2022-03-07",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 273,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 1,
+            "year": 2024,
+            "fechaLimite": "2024-02-11",
+            "tipo": "Extraordinario",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 274,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 1,
+            "year": 2022,
+            "fechaLimite": "2022-02-21",
+            "tipo": "Mora",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 275,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 12,
+            "year": 2022,
+            "fechaLimite": "2022-12-26",
+            "tipo": "Mora",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 276,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 1,
+            "year": 2022,
+            "fechaLimite": "2022-01-22",
+            "tipo": "Descuento",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 277,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 12,
+            "year": 2024,
+            "fechaLimite": "2024-12-23",
+            "tipo": "Descuento",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 278,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 7,
+            "year": 2023,
+            "fechaLimite": "2023-07-18",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 279,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 1,
+            "year": 2024,
+            "fechaLimite": "2024-01-27",
+            "tipo": "Descuento",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 280,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 5,
+            "year": 2022,
+            "fechaLimite": "2022-05-26",
+            "tipo": "Extraordinario",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 281,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 7,
+            "year": 2022,
+            "fechaLimite": "2022-08-06",
+            "tipo": "Normal",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 282,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 4,
+            "year": 2024,
+            "fechaLimite": "2024-04-22",
+            "tipo": "Descuento",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 283,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 7,
+            "year": 2023,
+            "fechaLimite": "2023-07-29",
+            "tipo": "Extraordinario",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 284,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 6,
+            "year": 2023,
+            "fechaLimite": "2023-07-02",
+            "tipo": "Descuento",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 285,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 2,
+            "year": 2022,
+            "fechaLimite": "2022-02-23",
+            "tipo": "Mora",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 286,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 10,
+            "year": 2024,
+            "fechaLimite": "2024-11-01",
+            "tipo": "Normal",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 287,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 9,
+            "year": 2024,
+            "fechaLimite": "2024-10-04",
+            "tipo": "Extraordinario",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 288,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 12,
+            "year": 2022,
+            "fechaLimite": "2023-01-06",
+            "tipo": "Mora",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 289,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 3,
+            "year": 2024,
+            "fechaLimite": "2024-04-06",
+            "tipo": "Mora",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 290,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 2,
+            "year": 2023,
+            "fechaLimite": "2023-02-09",
+            "tipo": "Descuento",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 291,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 5,
+            "year": 2022,
+            "fechaLimite": "2022-05-28",
+            "tipo": "Normal",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 292,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 11,
+            "year": 2023,
+            "fechaLimite": "2023-11-25",
+            "tipo": "Extraordinario",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 293,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 5,
+            "year": 2023,
+            "fechaLimite": "2023-05-31",
+            "tipo": "Mora",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 294,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 2,
+            "year": 2022,
+            "fechaLimite": "2022-03-04",
+            "tipo": "Extraordinario",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 295,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 4,
+            "year": 2024,
+            "fechaLimite": "2024-05-09",
+            "tipo": "Extraordinario",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 296,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 11,
+            "year": 2024,
+            "fechaLimite": "2024-11-21",
+            "tipo": "Mora",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 297,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 4,
+            "year": 2023,
+            "fechaLimite": "2023-04-09",
+            "tipo": "Descuento",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 298,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 9,
+            "year": 2022,
+            "fechaLimite": "2022-09-30",
+            "tipo": "Mora",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 299,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 4,
+            "year": 2023,
+            "fechaLimite": "2023-05-11",
+            "tipo": "Extraordinario",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 300,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 3,
+            "year": 2022,
+            "fechaLimite": "2022-04-15",
+            "tipo": "Mora",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 301,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 1,
+            "year": 2024,
+            "fechaLimite": "2024-01-12",
+            "tipo": "Normal",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 302,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 4,
+            "year": 2022,
+            "fechaLimite": "2022-04-20",
+            "tipo": "Normal",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 303,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 5,
+            "year": 2024,
+            "fechaLimite": "2024-06-11",
+            "tipo": "Descuento",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 304,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 2,
+            "year": 2022,
+            "fechaLimite": "2022-02-11",
+            "tipo": "Normal",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 305,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 11,
+            "year": 2024,
+            "fechaLimite": "2024-12-03",
+            "tipo": "Mora",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 306,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 6,
+            "year": 2024,
+            "fechaLimite": "2024-07-07",
+            "tipo": "Descuento",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 307,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 1,
+            "year": 2024,
+            "fechaLimite": "2024-01-21",
+            "tipo": "Mora",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 308,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 5,
+            "year": 2022,
+            "fechaLimite": "2022-06-08",
+            "tipo": "Descuento",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 309,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 7,
+            "year": 2022,
+            "fechaLimite": "2022-07-28",
+            "tipo": "Descuento",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 310,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 1,
+            "year": 2022,
+            "fechaLimite": "2022-02-18",
+            "tipo": "Mora",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 311,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 4,
+            "year": 2022,
+            "fechaLimite": "2022-04-27",
+            "tipo": "Extraordinario",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 312,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 11,
+            "year": 2022,
+            "fechaLimite": "2022-12-13",
+            "tipo": "Descuento",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 313,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 5,
+            "year": 2024,
+            "fechaLimite": "2024-05-26",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 314,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 10,
+            "year": 2024,
+            "fechaLimite": "2024-11-12",
+            "tipo": "Extraordinario",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 315,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 7,
+            "year": 2022,
+            "fechaLimite": "2022-07-19",
+            "tipo": "Mora",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 316,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 9,
+            "year": 2022,
+            "fechaLimite": "2022-09-28",
+            "tipo": "Descuento",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 317,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 2,
+            "year": 2023,
+            "fechaLimite": "2023-03-20",
+            "tipo": "Extraordinario",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 318,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 8,
+            "year": 2022,
+            "fechaLimite": "2022-08-07",
+            "tipo": "Mora",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 319,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 12,
+            "year": 2023,
+            "fechaLimite": "2023-12-23",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 320,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 4,
+            "year": 2022,
+            "fechaLimite": "2022-05-25",
+            "tipo": "Extraordinario",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 321,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 10,
+            "year": 2023,
+            "fechaLimite": "2023-11-13",
+            "tipo": "Mora",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 322,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 1,
+            "year": 2024,
+            "fechaLimite": "2024-02-18",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 323,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 6,
+            "year": 2022,
+            "fechaLimite": "2022-07-12",
+            "tipo": "Mora",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 324,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 9,
+            "year": 2024,
+            "fechaLimite": "2024-09-21",
+            "tipo": "Mora",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 325,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 8,
+            "year": 2022,
+            "fechaLimite": "2022-08-29",
+            "tipo": "Normal",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 326,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 7,
+            "year": 2023,
+            "fechaLimite": "2023-07-09",
+            "tipo": "Mora",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 327,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 8,
+            "year": 2022,
+            "fechaLimite": "2022-08-14",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 328,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 11,
+            "year": 2024,
+            "fechaLimite": "2024-11-29",
+            "tipo": "Extraordinario",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 329,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 7,
+            "year": 2023,
+            "fechaLimite": "2023-07-21",
+            "tipo": "Mora",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 330,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 2,
+            "year": 2023,
+            "fechaLimite": "2023-02-13",
+            "tipo": "Normal",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 331,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 9,
+            "year": 2023,
+            "fechaLimite": "2023-10-09",
+            "tipo": "Normal",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 332,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 2,
+            "year": 2024,
+            "fechaLimite": "2024-03-21",
+            "tipo": "Extraordinario",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 333,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 3,
+            "year": 2024,
+            "fechaLimite": "2024-04-10",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 334,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 1,
+            "year": 2022,
+            "fechaLimite": "2022-01-09",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 335,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 5,
+            "year": 2024,
+            "fechaLimite": "2024-06-14",
+            "tipo": "Descuento",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 336,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 7,
+            "year": 2023,
+            "fechaLimite": "2023-08-01",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 337,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 4,
+            "year": 2022,
+            "fechaLimite": "2022-04-16",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 338,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 3,
+            "year": 2024,
+            "fechaLimite": "2024-03-19",
+            "tipo": "Extraordinario",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 339,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 12,
+            "year": 2024,
+            "fechaLimite": "2024-12-28",
+            "tipo": "Normal",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 340,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 11,
+            "year": 2024,
+            "fechaLimite": "2024-11-21",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 341,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 6,
+            "year": 2022,
+            "fechaLimite": "2022-07-15",
+            "tipo": "Descuento",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 342,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 1,
+            "year": 2022,
+            "fechaLimite": "2022-01-14",
+            "tipo": "Descuento",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 343,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 7,
+            "year": 2022,
+            "fechaLimite": "2022-08-10",
+            "tipo": "Descuento",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 344,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 8,
+            "year": 2022,
+            "fechaLimite": "2022-08-28",
+            "tipo": "Descuento",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 345,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 1,
+            "year": 2022,
+            "fechaLimite": "2022-01-21",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 346,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 3,
+            "year": 2023,
+            "fechaLimite": "2023-03-18",
+            "tipo": "Extraordinario",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 347,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 3,
+            "year": 2022,
+            "fechaLimite": "2022-03-26",
+            "tipo": "Normal",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 348,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 7,
+            "year": 2024,
+            "fechaLimite": "2024-07-28",
+            "tipo": "Mora",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 349,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 10,
+            "year": 2023,
+            "fechaLimite": "2023-11-09",
+            "tipo": "Descuento",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 350,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 4,
+            "year": 2024,
+            "fechaLimite": "2024-05-17",
+            "tipo": "Descuento",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 351,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 9,
+            "year": 2024,
+            "fechaLimite": "2024-09-28",
+            "tipo": "Extraordinario",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 352,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 4,
+            "year": 2024,
+            "fechaLimite": "2024-04-21",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 353,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 8,
+            "year": 2023,
+            "fechaLimite": "2023-09-02",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 354,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 5,
+            "year": 2023,
+            "fechaLimite": "2023-06-09",
+            "tipo": "Extraordinario",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 355,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 3,
+            "year": 2022,
+            "fechaLimite": "2022-04-04",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 356,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 12,
+            "year": 2023,
+            "fechaLimite": "2024-01-08",
+            "tipo": "Descuento",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 357,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 6,
+            "year": 2023,
+            "fechaLimite": "2023-06-29",
+            "tipo": "Descuento",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 358,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 12,
+            "year": 2024,
+            "fechaLimite": "2024-12-17",
+            "tipo": "Mora",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 359,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 3,
+            "year": 2024,
+            "fechaLimite": "2024-04-23",
+            "tipo": "Normal",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 360,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 10,
+            "year": 2023,
+            "fechaLimite": "2023-11-06",
+            "tipo": "Extraordinario",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 361,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 4,
+            "year": 2022,
+            "fechaLimite": "2022-05-11",
+            "tipo": "Normal",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 362,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 1,
+            "year": 2024,
+            "fechaLimite": "2024-02-19",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 363,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 7,
+            "year": 2023,
+            "fechaLimite": "2023-08-14",
+            "tipo": "Extraordinario",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 364,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 9,
+            "year": 2022,
+            "fechaLimite": "2022-10-04",
+            "tipo": "Extraordinario",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 365,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 10,
+            "year": 2024,
+            "fechaLimite": "2024-10-26",
+            "tipo": "Descuento",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 366,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 5,
+            "year": 2023,
+            "fechaLimite": "2023-06-21",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 367,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 5,
+            "year": 2023,
+            "fechaLimite": "2023-06-07",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 368,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 6,
+            "year": 2023,
+            "fechaLimite": "2023-07-09",
+            "tipo": "Extraordinario",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 369,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 1,
+            "year": 2022,
+            "fechaLimite": "2022-01-18",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 370,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 4,
+            "year": 2023,
+            "fechaLimite": "2023-04-10",
+            "tipo": "Normal",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 371,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 7,
+            "year": 2023,
+            "fechaLimite": "2023-07-30",
+            "tipo": "Extraordinario",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 372,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 8,
+            "year": 2022,
+            "fechaLimite": "2022-09-06",
+            "tipo": "Extraordinario",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 373,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 1,
+            "year": 2024,
+            "fechaLimite": "2024-01-30",
+            "tipo": "Mora",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 374,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 11,
+            "year": 2024,
+            "fechaLimite": "2024-11-27",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 375,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 1,
+            "year": 2022,
+            "fechaLimite": "2022-01-14",
+            "tipo": "Extraordinario",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 376,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 1,
+            "year": 2023,
+            "fechaLimite": "2023-02-02",
+            "tipo": "Normal",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 377,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 9,
+            "year": 2022,
+            "fechaLimite": "2022-09-25",
+            "tipo": "Extraordinario",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 378,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 5,
+            "year": 2022,
+            "fechaLimite": "2022-05-17",
+            "tipo": "Extraordinario",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 379,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 7,
+            "year": 2023,
+            "fechaLimite": "2023-07-30",
+            "tipo": "Extraordinario",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 380,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 11,
+            "year": 2023,
+            "fechaLimite": "2023-11-16",
+            "tipo": "Descuento",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 381,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 8,
+            "year": 2024,
+            "fechaLimite": "2024-09-02",
+            "tipo": "Normal",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 382,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 7,
+            "year": 2022,
+            "fechaLimite": "2022-08-26",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 383,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 3,
+            "year": 2023,
+            "fechaLimite": "2023-04-14",
+            "tipo": "Mora",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 384,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 6,
+            "year": 2024,
+            "fechaLimite": "2024-06-25",
+            "tipo": "Extraordinario",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 385,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 1,
+            "year": 2023,
+            "fechaLimite": "2023-01-03",
+            "tipo": "Normal",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 386,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 6,
+            "year": 2023,
+            "fechaLimite": "2023-07-07",
+            "tipo": "Extraordinario",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 387,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 8,
+            "year": 2022,
+            "fechaLimite": "2022-08-14",
+            "tipo": "Descuento",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 388,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 12,
+            "year": 2023,
+            "fechaLimite": "2024-01-25",
+            "tipo": "Mora",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 389,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 10,
+            "year": 2023,
+            "fechaLimite": "2023-10-16",
+            "tipo": "Normal",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 390,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 12,
+            "year": 2024,
+            "fechaLimite": "2024-12-24",
+            "tipo": "Extraordinario",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 391,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 4,
+            "year": 2022,
+            "fechaLimite": "2022-05-14",
+            "tipo": "Descuento",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 392,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 12,
+            "year": 2022,
+            "fechaLimite": "2022-12-31",
+            "tipo": "Descuento",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 393,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 3,
+            "year": 2022,
+            "fechaLimite": "2022-04-01",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 394,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 12,
+            "year": 2023,
+            "fechaLimite": "2023-12-29",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 395,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 2,
+            "year": 2024,
+            "fechaLimite": "2024-03-18",
+            "tipo": "Extraordinario",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 396,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 6,
+            "year": 2022,
+            "fechaLimite": "2022-07-03",
+            "tipo": "Mora",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 397,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 6,
+            "year": 2024,
+            "fechaLimite": "2024-06-27",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 398,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 7,
+            "year": 2022,
+            "fechaLimite": "2022-07-13",
+            "tipo": "Mora",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 399,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 4,
+            "year": 2023,
+            "fechaLimite": "2023-04-20",
+            "tipo": "Descuento",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 400,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 7,
+            "year": 2023,
+            "fechaLimite": "2023-08-09",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 401,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 12,
+            "year": 2024,
+            "fechaLimite": "2025-01-10",
+            "tipo": "Extraordinario",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 402,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 6,
+            "year": 2022,
+            "fechaLimite": "2022-06-07",
+            "tipo": "Descuento",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 403,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 5,
+            "year": 2022,
+            "fechaLimite": "2022-05-13",
+            "tipo": "Mora",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 404,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 10,
+            "year": 2023,
+            "fechaLimite": "2023-11-01",
+            "tipo": "Normal",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 405,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 3,
+            "year": 2023,
+            "fechaLimite": "2023-03-19",
+            "tipo": "Extraordinario",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 406,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 12,
+            "year": 2023,
+            "fechaLimite": "2023-12-28",
+            "tipo": "Normal",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 407,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 9,
+            "year": 2023,
+            "fechaLimite": "2023-09-28",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 408,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 4,
+            "year": 2023,
+            "fechaLimite": "2023-05-08",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 409,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 2,
+            "year": 2022,
+            "fechaLimite": "2022-02-20",
+            "tipo": "Mora",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 410,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 10,
+            "year": 2024,
+            "fechaLimite": "2024-10-20",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 411,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 4,
+            "year": 2022,
+            "fechaLimite": "2022-04-20",
+            "tipo": "Mora",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 412,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 7,
+            "year": 2023,
+            "fechaLimite": "2023-07-28",
+            "tipo": "Descuento",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 413,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 10,
+            "year": 2022,
+            "fechaLimite": "2022-11-03",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 414,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 1,
+            "year": 2024,
+            "fechaLimite": "2024-01-23",
+            "tipo": "Extraordinario",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 415,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 5,
+            "year": 2023,
+            "fechaLimite": "2023-05-30",
+            "tipo": "Mora",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 416,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 4,
+            "year": 2023,
+            "fechaLimite": "2023-04-27",
+            "tipo": "Mora",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 417,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 1,
+            "year": 2022,
+            "fechaLimite": "2022-02-01",
+            "tipo": "Descuento",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 418,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 11,
+            "year": 2022,
+            "fechaLimite": "2022-12-16",
+            "tipo": "Mora",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 419,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 5,
+            "year": 2024,
+            "fechaLimite": "2024-05-09",
+            "tipo": "Extraordinario",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 420,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 4,
+            "year": 2022,
+            "fechaLimite": "2022-05-17",
+            "tipo": "Mora",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 421,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 9,
+            "year": 2023,
+            "fechaLimite": "2023-10-01",
+            "tipo": "Extraordinario",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 422,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 2,
+            "year": 2024,
+            "fechaLimite": "2024-03-11",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 423,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 11,
+            "year": 2024,
+            "fechaLimite": "2024-12-08",
+            "tipo": "Extraordinario",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 424,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 12,
+            "year": 2023,
+            "fechaLimite": "2024-01-24",
+            "tipo": "Extraordinario",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 425,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 3,
+            "year": 2022,
+            "fechaLimite": "2022-03-16",
+            "tipo": "Descuento",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 426,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 9,
+            "year": 2024,
+            "fechaLimite": "2024-10-13",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 427,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 10,
+            "year": 2023,
+            "fechaLimite": "2023-11-09",
+            "tipo": "Normal",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 428,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 9,
+            "year": 2023,
+            "fechaLimite": "2023-09-30",
+            "tipo": "Normal",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 429,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 11,
+            "year": 2024,
+            "fechaLimite": "2024-12-12",
+            "tipo": "Descuento",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 430,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 7,
+            "year": 2022,
+            "fechaLimite": "2022-07-31",
+            "tipo": "Extraordinario",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 431,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 3,
+            "year": 2024,
+            "fechaLimite": "2024-04-16",
+            "tipo": "Extraordinario",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 432,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 6,
+            "year": 2024,
+            "fechaLimite": "2024-07-09",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 433,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 5,
+            "year": 2022,
+            "fechaLimite": "2022-05-21",
+            "tipo": "Descuento",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 434,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 11,
+            "year": 2023,
+            "fechaLimite": "2023-12-10",
+            "tipo": "Extraordinario",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 435,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 1,
+            "year": 2022,
+            "fechaLimite": "2022-01-26",
+            "tipo": "Extraordinario",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 436,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 12,
+            "year": 2023,
+            "fechaLimite": "2023-12-22",
+            "tipo": "Descuento",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 437,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 11,
+            "year": 2022,
+            "fechaLimite": "2022-12-01",
+            "tipo": "Mora",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 438,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 1,
+            "year": 2024,
+            "fechaLimite": "2024-01-13",
+            "tipo": "Mora",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 439,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 1,
+            "year": 2022,
+            "fechaLimite": "2022-01-26",
+            "tipo": "Normal",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 440,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 2,
+            "year": 2023,
+            "fechaLimite": "2023-03-01",
+            "tipo": "Descuento",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 441,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 9,
+            "year": 2024,
+            "fechaLimite": "2024-09-29",
+            "tipo": "Descuento",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 442,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 10,
+            "year": 2023,
+            "fechaLimite": "2023-10-18",
+            "tipo": "Mora",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 443,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 6,
+            "year": 2024,
+            "fechaLimite": "2024-06-20",
+            "tipo": "Descuento",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 444,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 9,
+            "year": 2024,
+            "fechaLimite": "2024-10-14",
+            "tipo": "Extraordinario",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 445,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 6,
+            "year": 2023,
+            "fechaLimite": "2023-07-09",
+            "tipo": "Extraordinario",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 446,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 4,
+            "year": 2024,
+            "fechaLimite": "2024-05-23",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 447,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 1,
+            "year": 2022,
+            "fechaLimite": "2022-01-07",
+            "tipo": "Extraordinario",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 448,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 10,
+            "year": 2024,
+            "fechaLimite": "2024-10-21",
+            "tipo": "Descuento",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 449,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 11,
+            "year": 2022,
+            "fechaLimite": "2022-12-02",
+            "tipo": "Descuento",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 450,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 3,
+            "year": 2024,
+            "fechaLimite": "2024-04-02",
+            "tipo": "Normal",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 451,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 7,
+            "year": 2023,
+            "fechaLimite": "2023-07-16",
+            "tipo": "Mora",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 452,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 11,
+            "year": 2023,
+            "fechaLimite": "2023-11-16",
+            "tipo": "Extraordinario",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 453,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 2,
+            "year": 2022,
+            "fechaLimite": "2022-02-18",
+            "tipo": "Mora",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 454,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 4,
+            "year": 2024,
+            "fechaLimite": "2024-04-20",
+            "tipo": "Extraordinario",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 455,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 7,
+            "year": 2024,
+            "fechaLimite": "2024-07-15",
+            "tipo": "Mora",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 456,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 4,
+            "year": 2023,
+            "fechaLimite": "2023-04-30",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 457,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 11,
+            "year": 2023,
+            "fechaLimite": "2023-12-01",
+            "tipo": "Descuento",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 458,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 2,
+            "year": 2022,
+            "fechaLimite": "2022-02-26",
+            "tipo": "Normal",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 459,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 7,
+            "year": 2023,
+            "fechaLimite": "2023-07-11",
+            "tipo": "Descuento",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 460,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 2,
+            "year": 2023,
+            "fechaLimite": "2023-03-23",
+            "tipo": "Descuento",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 461,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 10,
+            "year": 2022,
+            "fechaLimite": "2022-10-11",
+            "tipo": "Normal",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 462,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 1,
+            "year": 2024,
+            "fechaLimite": "2024-02-01",
+            "tipo": "Extraordinario",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 463,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 8,
+            "year": 2023,
+            "fechaLimite": "2023-08-19",
+            "tipo": "Normal",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 464,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 1,
+            "year": 2023,
+            "fechaLimite": "2023-01-23",
+            "tipo": "Mora",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 465,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 9,
+            "year": 2024,
+            "fechaLimite": "2024-09-27",
+            "tipo": "Descuento",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 466,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 6,
+            "year": 2023,
+            "fechaLimite": "2023-06-29",
+            "tipo": "Normal",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 467,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 6,
+            "year": 2022,
+            "fechaLimite": "2022-06-24",
+            "tipo": "Extraordinario",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 468,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 4,
+            "year": 2022,
+            "fechaLimite": "2022-04-23",
+            "tipo": "Mora",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 469,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 3,
+            "year": 2024,
+            "fechaLimite": "2024-04-19",
+            "tipo": "Mora",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 470,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 7,
+            "year": 2024,
+            "fechaLimite": "2024-08-12",
+            "tipo": "Mora",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 471,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 1,
+            "year": 2022,
+            "fechaLimite": "2022-02-09",
+            "tipo": "Normal",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 472,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 11,
+            "year": 2024,
+            "fechaLimite": "2024-12-06",
+            "tipo": "Mora",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 473,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 8,
+            "year": 2022,
+            "fechaLimite": "2022-08-11",
+            "tipo": "Extraordinario",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 474,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 11,
+            "year": 2024,
+            "fechaLimite": "2024-11-25",
+            "tipo": "Extraordinario",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 475,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 11,
+            "year": 2023,
+            "fechaLimite": "2023-12-11",
+            "tipo": "Descuento",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 476,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 7,
+            "year": 2023,
+            "fechaLimite": "2023-07-30",
+            "tipo": "Normal",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 477,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 1,
+            "year": 2022,
+            "fechaLimite": "2022-01-31",
+            "tipo": "Descuento",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 478,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 1,
+            "year": 2023,
+            "fechaLimite": "2023-02-15",
+            "tipo": "Descuento",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 479,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 6,
+            "year": 2022,
+            "fechaLimite": "2022-07-25",
+            "tipo": "Mora",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 480,
+        "fields": {
+            "valor": "1000.50",
+            "mes": 4,
+            "year": 2024,
+            "fechaLimite": "2024-04-26",
+            "tipo": "Mora",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 481,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 4,
+            "year": 2022,
+            "fechaLimite": "2022-05-02",
+            "tipo": "Mora",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 482,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 4,
+            "year": 2023,
+            "fechaLimite": "2023-05-07",
+            "tipo": "Mora",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 483,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 6,
+            "year": 2024,
+            "fechaLimite": "2024-06-21",
+            "tipo": "Normal",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 484,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 8,
+            "year": 2024,
+            "fechaLimite": "2024-09-01",
+            "tipo": "Mora",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 485,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 1,
+            "year": 2022,
+            "fechaLimite": "2022-01-19",
+            "tipo": "Mora",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 486,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 11,
+            "year": 2022,
+            "fechaLimite": "2022-11-15",
+            "tipo": "Descuento",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 487,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 10,
+            "year": 2022,
+            "fechaLimite": "2022-11-03",
+            "tipo": "Mora",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 488,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 3,
+            "year": 2024,
+            "fechaLimite": "2024-04-01",
+            "tipo": "Extraordinario",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 489,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 10,
+            "year": 2023,
+            "fechaLimite": "2023-11-17",
+            "tipo": "Descuento",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 490,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 12,
+            "year": 2023,
+            "fechaLimite": "2023-12-20",
+            "tipo": "Descuento",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 491,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 5,
+            "year": 2022,
+            "fechaLimite": "2022-06-11",
+            "tipo": "Descuento",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 492,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 2,
+            "year": 2022,
+            "fechaLimite": "2022-03-05",
+            "tipo": "Mora",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 493,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 11,
+            "year": 2022,
+            "fechaLimite": "2022-11-14",
+            "tipo": "Mora",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 494,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 11,
+            "year": 2024,
+            "fechaLimite": "2024-11-12",
+            "tipo": "Extraordinario",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 495,
+        "fields": {
+            "valor": "1500.00",
+            "mes": 2,
+            "year": 2023,
+            "fechaLimite": "2023-03-02",
+            "tipo": "Descuento",
+            "interes": "10.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 496,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 8,
+            "year": 2024,
+            "fechaLimite": "2024-08-31",
+            "tipo": "Descuento",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 497,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 11,
+            "year": 2024,
+            "fechaLimite": "2024-11-12",
+            "tipo": "Extraordinario",
+            "interes": "5.00"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 498,
+        "fields": {
+            "valor": "2500.75",
+            "mes": 12,
+            "year": 2022,
+            "fechaLimite": "2022-12-18",
+            "tipo": "Mora",
+            "interes": "3.25"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 499,
+        "fields": {
+            "valor": "2100.99",
+            "mes": 5,
+            "year": 2022,
+            "fechaLimite": "2022-06-15",
+            "tipo": "Extraordinario",
+            "interes": "2.50"
+        }
+    },
+    {
+        "model": "cobros.cobro",
+        "pk": 500,
+        "fields": {
+            "valor": "3200.30",
+            "mes": 5,
+            "year": 2023,
+            "fechaLimite": "2023-05-23",
+            "tipo": "Normal",
+            "interes": "5.00"
+        }
+    }
+]
