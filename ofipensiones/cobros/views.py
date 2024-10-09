@@ -29,6 +29,3 @@ def get_cobro(request, pk):
         cobro_dto = serializers.serialize('json', [cobro])
         return HttpResponse(cobro_dto, 'application/json')
 
-def healthCheck(request):
-    return HttpResponse('ok')
-
